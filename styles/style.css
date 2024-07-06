@@ -23,7 +23,7 @@ font-weight: 600;
 line-height: 38px;
 letter-spacing: 0%;
 text-align:center;
-opacity: 0.8;
+
 }
 .sudip{
     color: rgb(255, 255, 255);
@@ -63,4 +63,20 @@ text-align: center;
 opacity: 0.8;
 margin: 18px;
 
+}
+#card-box.info{
+    margin: ;
+}
+#card-box{
+    width: 1000px;
+    margin: 50px auto;
+}
+#card-box.title{
+    color: rgb(16, 16, 16);
+font-family: Work Sans;
+font-size: 48px;
+font-weight: 700;
+line-height: 64px;
+letter-spacing: 0%;
+text-align: center;
 }
